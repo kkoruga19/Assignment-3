@@ -111,12 +111,18 @@ article{
     padding-bottom: 2rem;
 }
 
+.ahead{
+  font-weight: bold;
+  font-size: 20px;
+}
 
 aside {
   display: block;
   width: 20vw;
   background: #E5EAEA;
   padding-right: 5rem;
+   font-weight: lighter;
+
 }
 
 .C1 {
